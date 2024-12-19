@@ -24,9 +24,9 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlwbmQxYnlvc241azdmNWNhdjNxZjU1bjZ4eXhlaGlvcnhnZHp2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/INIsc4ZXaziUWljumz/giphy.gif
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap 
+GIF created with LiceCap and uploaded to giphy
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +35,7 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+Primary challenge was learning the JavaScript aspect of it. I wasn't too familiar with interacting with the DOM.
 
 ## License
 
